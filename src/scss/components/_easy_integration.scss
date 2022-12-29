@@ -1,0 +1,48 @@
+.easy_integration {
+  display: flex;
+  flex-direction: row;
+}
+.easy_integration_text {
+  display: flex;
+  flex-direction: column;
+  margin: 0px 110px 8px 112px;
+  width: 488px;
+}
+.easy_integration_text > h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: -0.025em;
+  color: #111827;
+  width: 408px;
+  margin-bottom: 0px;
+}
+.easy_integration_text > p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #111827;
+  margin-top: 0px;
+}
+.easy_integration_item_two {
+  background-image: url(./img/Vector.png);
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+.easy_integration_item_img_one {
+  display: flex;
+  flex-direction: row;
+  gap: 64px;
+  margin: 40px 46px 0px 46px;
+}
+.easy_integration_item_img_two {
+  display: flex;
+  flex-direction: row;
+  gap: 64px;
+  margin: 0px 110px 38px 110px;
+}

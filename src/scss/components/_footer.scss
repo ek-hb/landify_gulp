@@ -1,0 +1,59 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  background-color: #000000;
+  justify-content: space-between;
+}
+.footer_item_one {
+  display: flex;
+  flex-direction: column;
+  margin: 64px 0px 64px 112px;
+}
+.footer_item_one > img {
+  background: #000000;
+}
+.footer_item_one > h3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-top: 24px;
+  margin-bottom: 0px;
+}
+.footer_item_one :nth-child(3) {
+  margin-top: 12px;
+}
+.footer_item_one > h3 > span {
+  margin-right: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.footer_item_one > p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #d1d5db;
+}
+.footer_item_two {
+  margin: 64px 112px 84px 0px;
+}
+.footer_item_two > h2 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #d1d5db;
+}
+.other_header > .ohter_store {
+  border: 1px solid white;
+  margin-bottom: 16px;
+}

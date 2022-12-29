@@ -1,0 +1,67 @@
+.header {
+  margin: 20px 113px 20px 113.14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.landify {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.landify > span {
+  margin-left: 11.17px;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.navigation {
+  display: flex;
+  align-items: center;
+  margin-left: 48.14px;
+  padding-right: 24px;
+}
+.navigation > a {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  color: #111827;
+  padding-right: 24px;
+  text-decoration: none;
+}
+.header > .other_header {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+}
+.other_header > .ohter_store {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  width: 140px;
+  height: 40px;
+  background-color: black;
+}
+.ohter_store > img {
+  width: 23px;
+  height: 25px;
+  padding: 7px 0px 20px 10px;
+}
+.other_header > .ohter_store_text {
+  display: flex;
+  flex-direction: column;
+}
+.ohter_store_text > h4 {
+  color: #ffffff;
+  font-size: 15px;
+  margin: 0px 0px 6px 8px;
+}
+.ohter_store_text > p {
+  color: #ffffff;
+  font-size: 10px;
+  margin: 6px 0px 0px 8px;
+}
+.other_header > #burger {
+  display: none;
+}

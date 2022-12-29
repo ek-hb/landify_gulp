@@ -1,0 +1,58 @@
+.manage_all {
+  display: flex;
+  flex-direction: row;
+  background-color: #1db5be;
+  margin-top: 126px;
+  height: 558px;
+}
+.manage_all_item_one {
+  display: flex;
+  flex-direction: column;
+  width: 592px;
+  margin: 111px 95px 112px 112px;
+}
+.manage_all_item_one > h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: -0.025em;
+  color: #111827;
+  width: 500px;
+  margin-bottom: 0px;
+}
+.manage_all_item_one > p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #111827;
+  margin-top: 0px;
+  width: 500px;
+}
+.manage_all_item_one > h2 {
+  margin: 48px 0px 8px 0px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #111827;
+}
+.manage_all_item_one > .other_header {
+  display: flex;
+  flex-direction: row;
+  gap: 13px;
+}
+.manage_all_item_one > .other_header > .ohter_store {
+  border: 1px solid white;
+}
+.manage_all_item_two {
+  display: flex;
+  flex-direction: row;
+}
+.manage_all_item_two_img_two {
+  margin: 162px 181px 0px -20px;
+}

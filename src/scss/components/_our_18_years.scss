@@ -1,0 +1,84 @@
+.our_18_years {
+  display: flex;
+  flex-direction: row;
+}
+.our_18_years_wrapper {
+  display: flex;
+  flex-direction: row;
+}
+.our_18_years_item {
+  display: flex;
+  flex-direction: column;
+  margin: 91px 40px 127px 112px;
+  width: 592px;
+}
+
+.our_18_years_item > h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 60px;
+  letter-spacing: -0.025em;
+  color: #111827;
+  margin-bottom: 0px;
+  width: 340px;
+}
+.our_18_years_item_one {
+  display: flex;
+  flex-direction: row;
+  margin: 115px 112px 40px 0px;
+  gap: 32px;
+}
+.our_18_years_item > p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #111827;
+  margin-top: 0px;
+}
+.our_18_years_card_start {
+  display: flex;
+  flex-direction: column;
+}
+.our_18_years_card {
+  display: flex;
+  flex-direction: row;
+}
+.our_18_years_card > img {
+  width: 32px;
+  height: 32px;
+  margin-top: 10px;
+}
+.our_18_years_card_text > h1 {
+  margin: -5px 0px 0px 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  color: #111827;
+  margin-bottom: 0px;
+}
+.our_18_years_card_text > p {
+  margin: 0px 0px 0px 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #111827;
+  margin-top: 0px;
+}
+.our_18_years_item_two {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+.our_18_years_card_two {
+  display: flex;
+  flex-direction: row;
+  margin-left: 52px;
+}
